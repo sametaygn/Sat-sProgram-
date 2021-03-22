@@ -1,0 +1,1 @@
+﻿Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\SerSam\source\repos\SatısProgramı\SatısProgramı\Database1.mdf;Integrated Security=True
